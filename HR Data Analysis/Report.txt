@@ -1,0 +1,19 @@
+Project 1: Pizza Recommendation System Model
+Objective
+The objective of this data analysis project is to explore the preferences and trends related to pizza consumption, including popular toppings, regional variations, and customer preferences.
+
+Methods
+Data collection from various sources such as pizza chains, customer surveys, and social media platforms
+Data cleaning and preprocessing
+Exploratory data analysis to identify trends and patterns
+Statistical analysis to uncover correlations and insights
+Visualization using charts and graphs to present findings
+Key Findings
+Pepperoni is the most popular pizza topping across all regions.
+There is a noticeable preference for thin-crust pizzas in urban areas compared to thick-crust in suburban and rural areas.
+The frequency of pizza consumption peaks during weekends and major sporting events.
+Visualizations/Insights
+A bar chart showing the top 5 pizza toppings
+A map illustrating regional variations in pizza crust preferences
+A line graph depicting the weekly pattern of pizza orders
+You can use this structure as a starting point and customize it according to your specific findings and insights from the data analysis project.
